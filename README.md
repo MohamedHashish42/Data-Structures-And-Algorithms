@@ -9,9 +9,11 @@
 This is a summary for Data Structures And Algorithms in C#
 
 This summary consists of 3 parts 
-1. Big O
-2. Data Structures
-3. Algorithms
+
+1- Big O
+
+3- Data Structures
+4- Algorithms
 
 For each part, you will find
 
@@ -19,6 +21,7 @@ For each part, you will find
 2- Simple console application contains an example for each subject derived from this part
 
 ## 1. Big O
+
    1.1- Basics
    
    1.2- Simplify Big O
