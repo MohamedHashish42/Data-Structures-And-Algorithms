@@ -19,9 +19,11 @@ For each part, you will find
 2- Simple console application contains an example for each subject derived from this part
 
 ## 1. Big O
-   1.1 Basics
-   1.2 Simplify Big O
-   1.3 Example
+   1.1- Basics
+   
+   1.2- Simplify Big O
+   
+   1.3- Example
 
 ## References
 
