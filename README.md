@@ -19,6 +19,7 @@ This summary consists of 3 parts
 For each part, you will find
 
 1- Separate slides folder for each subject derived from this part, please read the slides first
+
 2- Simple console application contains an example for each subject derived from this part
 
 ## 1. Big O
