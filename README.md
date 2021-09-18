@@ -38,7 +38,8 @@ The main two source I have depended on it in this summary areCancel changes
 <a href="https://www.geeksforgeeks.org/">GeeksforGeeks</a>
 
 ## Other references
-<a href="https://www.wikipedia.org/">wikipedia</a><hr>
-<a href="https://www.tutorialspoint.com/index.htm">Tutorialspoint</a><hr>
+<a href="https://www.wikipedia.org/">wikipedia</a>
+
+<a href="https://www.tutorialspoint.com/index.htm">Tutorialspoint</a>
 
 ## أخيرا أرجو من الله ان يكون نافعا
