@@ -6,7 +6,7 @@
 
 # Data Structures And Algorithms
 
-This is a summary for Data Structures And Algorithms in C#
+This is a summary for some of Data Structures And Algorithms in C#
 
 This summary consists of 3 parts 
 
