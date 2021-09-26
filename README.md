@@ -12,15 +12,16 @@ This summary consists of 3 parts
 
 1- Big O
 
-3- Data Structures
+2- Data Structures
 
-4- Algorithms
+3- Algorithms
 
 For each part, you will find
 
 1- Separate slides folder for each subject derived from this part, please read the slides first
 
 2- Simple console application contains an example for each subject derived from this part
+
 
 ## 1. Big O
 
@@ -29,8 +30,19 @@ For each part, you will find
    1.2- Simplify Big O
    
    1.3- Example
+     
+     
+## 2- Data Structures
+
+   2.1- Linked List
+
+   2.2- Stacks  
+  
+   2.3- Queues
    
-## Other parts will be added in the coming days
+  ## (Hash Tables, Arrays, Trees, Graph) will be added in the coming days
+   
+<!-- Other parts will be added in the coming days -->
 
 ## References
 
