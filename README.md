@@ -36,11 +36,11 @@ For each part, you will find
 
    2.1- Linked List
 
-   2.2- Stacks  
+   2.2- Stack  
   
-   2.3- Queues
+   2.3- Queue
    
-  ## (Hash Tables, Arrays, Trees, Graph) will be added in the coming days
+  ## (Hash Table, Array, Tree, Graph) will be added in the coming days
    
 <!-- Other parts will be added in the coming days -->
 
