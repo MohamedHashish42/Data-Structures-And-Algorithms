@@ -72,14 +72,18 @@ namespace DataStructure.HashTable
 
             //If Collision Exists         
             int hashKey = Hash(key);
-            foreach (var item in data)
+            if (data.Keys.Contains(hashKey))
             {
-                if (item.Key.Equals(hashKey))
+                foreach (var item in data)
                 {
-                    data[hashKey].AddLast(new HashNode(key, value));
-                    return;
+                    if (item.Key.Equals(hashKey))
+                    {
+                        data[hashKey].AddLast(new HashNode(key, value));
+                        return;
+                    }
                 }
             }
+
 
 
             var listOfHashNode = new LinkedList<HashNode>();
