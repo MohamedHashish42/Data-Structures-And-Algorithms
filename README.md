@@ -42,6 +42,8 @@ For each part, you will find
   
    2.3- Queue
    
+   2.4- Hash table
+   
   ### (Tree, Graph) will be added in the coming days <!-- Other parts will be added in the coming days -->
   
   
