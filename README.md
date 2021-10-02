@@ -23,6 +23,7 @@ For each part, you will find
 2- Simple console application contains an example for each subject derived from this part
 
 
+
 ## 1. Big O
 
    1.1- Basics
@@ -30,6 +31,7 @@ For each part, you will find
    1.2- Simplify Big O
    
    1.3- Example
+     
      
      
 ## 2- Data Structures
@@ -41,6 +43,7 @@ For each part, you will find
    2.3- Queue
    
   ### (Tree, Graph) will be added in the coming days <!-- Other parts will be added in the coming days -->
+  
   
 
 ## 3- Algorithms (will be added after finishing Data Structure part)
