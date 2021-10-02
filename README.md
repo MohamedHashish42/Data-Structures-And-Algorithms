@@ -40,13 +40,11 @@ For each part, you will find
   
    2.3- Queue
    
-  ## (Tree, Graph) will be added in the coming days <!-- Other parts will be added in the coming days -->
+  ### (Tree, Graph) will be added in the coming days <!-- Other parts will be added in the coming days -->
   
 
-## 3- Algorithms
+## 3- Algorithms (will be added after finishing Data Structure part)
    
-## will be added after finishing Data Structure part
-
 
 ## References
 
