@@ -44,8 +44,6 @@ For each part, you will find
    2.3- Queue
    
    2.4- Hash table
-   
- ![image](https://user-images.githubusercontent.com/81900786/136427123-62c3f549-3a7b-4d08-9476-bf2c63c2b5cb.png)
 
   ### (Tree, Graph) will be added in the coming days <!-- Other parts will be added in the coming days -->
   
