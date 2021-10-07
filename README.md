@@ -31,6 +31,9 @@ For each part, you will find
    1.2- Simplify Big O
    
    1.3- Example
+
+![image](https://user-images.githubusercontent.com/81900786/136415214-79de19ee-8863-4698-a330-7009a897e3b9.png)
+![image](https://user-images.githubusercontent.com/81900786/136421281-ff3d9997-d114-44bc-a3fe-7462c33d780c.png)
      
      
      
@@ -44,6 +47,8 @@ For each part, you will find
    
    2.4- Hash table
    
+ ![image](https://user-images.githubusercontent.com/81900786/136427123-62c3f549-3a7b-4d08-9476-bf2c63c2b5cb.png)
+
   ### (Tree, Graph) will be added in the coming days <!-- Other parts will be added in the coming days -->
   
   
