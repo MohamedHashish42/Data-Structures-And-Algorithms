@@ -32,9 +32,7 @@ For each part, you will find
    
    1.3- Example
 
-![image](https://user-images.githubusercontent.com/81900786/136415214-79de19ee-8863-4698-a330-7009a897e3b9.png)
-![image](https://user-images.githubusercontent.com/81900786/136421281-ff3d9997-d114-44bc-a3fe-7462c33d780c.png)
-     
+![image](https://user-images.githubusercontent.com/81900786/136428828-1c17fdfc-2956-4aa7-8294-92cb9b6b9830.png)
      
      
 ## 2- Data Structures
