@@ -31,8 +31,13 @@ For each part, you will find
    1.2- Simplify Big O
    
    1.3- Example
+   
+   1.4- Tree
+   
+   1.5- Gragh
 
-![image](https://user-images.githubusercontent.com/81900786/136428828-1c17fdfc-2956-4aa7-8294-92cb9b6b9830.png)
+![image](https://user-images.githubusercontent.com/81900786/136651043-83675c3a-a308-4ed5-8bff-b0c774acd878.png)
+
      
      
 ## 2- Data Structures
@@ -44,12 +49,12 @@ For each part, you will find
    2.3- Queue
    
    2.4- Hash table
+   
+   ![image](https://user-images.githubusercontent.com/81900786/136651134-097f8afe-5fcb-47e2-a393-c25ee061dfff.png) 
+   
+   
 
-  ### (Tree, Graph) will be added in the coming days <!-- Other parts will be added in the coming days -->
-  
-  
-
-## 3- Algorithms (will be added after finishing Data Structure part)
+## 3- Algorithms will be added in the coming days
    
 
 ## References
