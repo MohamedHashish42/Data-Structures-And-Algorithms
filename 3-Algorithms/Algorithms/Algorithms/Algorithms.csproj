@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="1-Recursion\3-TailAndNon_Recursion.cs~RFbbd4d6.TMP" />
+  </ItemGroup>
+
+</Project>
