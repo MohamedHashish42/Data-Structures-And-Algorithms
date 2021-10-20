@@ -53,8 +53,12 @@ For each part, you will find
    ![image](https://user-images.githubusercontent.com/81900786/136651134-097f8afe-5fcb-47e2-a393-c25ee061dfff.png) 
    
    
+   
+## 3- Algorithms
 
-## 3- Algorithms will be added in the coming days
+   3.1- Recursion
+   
+## 3- The other Algorithm will be added in the coming days
    
 
 ## References
