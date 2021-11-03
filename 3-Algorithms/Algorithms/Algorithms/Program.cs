@@ -1,4 +1,5 @@
 ﻿
+using Algorithms.DynamicProgramming;
 using Algorithms.Recursion;
 using System;
 using System.Collections.Generic;
@@ -12,7 +13,7 @@ namespace Algorithms
 
 
 
-            #region Recursion
+            #region 1-Recursion
 
             //Console.WriteLine("Factorial(" + 5 + ") Using Non-tail Recursion = "
             //                + TailAndNon_TailRecursion.NonTRFact(5));
@@ -34,6 +35,18 @@ namespace Algorithms
             //Console.WriteLine("Fibonacci(" + 5 + ") Using Recursion : "
             //                   + Fibonacci.UsingRecursion(5));
 
+
+            #endregion
+
+            #region 2-Dynamic Programming
+
+            RecursiveSolution.Fib(6);
+
+            MemoizedSolution fm = new MemoizedSolution();
+            Console.WriteLine(fm.Fib1(6));
+            Console.WriteLine(fm.Fib2()(6));
+
+            TabulatedSolution.Fib(6);
 
             #endregion
 
