@@ -58,6 +58,11 @@ For each part, you will find
 
    3.1- Recursion
    
+   3.2- Dynamic Programming
+   
+   3.3- BFS + DFS
+   
+   
 ## 3- The other Algorithm will be added in the coming days
    
 
