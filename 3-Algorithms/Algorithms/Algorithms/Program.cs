@@ -185,6 +185,44 @@ namespace Algorithms
 
             #endregion
 
+            #region 4- Sorting
+
+            #region InsertionSort Sort
+            //var arr1 = new int[] { 50, 40, 30, 70 };
+            //var arrAfterIS = InsertionSort.Sort(arr1);
+            //Console.WriteLine(string.Join(", ", arrAfterIS));
+            #endregion
+
+            #region Selection Sort
+            //var arr2 = new int[] { 50, 40, 30, 70 };
+            //var arrAfterSS = SelectionSort.Sort(arr2);
+            //Console.WriteLine(string.Join(", ", arrAfterSS));
+            #endregion
+
+            #region Bubble Sort
+            //var arr3 = new int[] { 50, 40, 30, 70 };
+            //var arrAfterBS = BubbleSort.Sort(arr3);
+            //Console.WriteLine(string.Join(", ", arrAfterBS));
+            #endregion
+
+
+
+            #region Merge Sort
+            //var arr4 = new int[] { 50, 40, 30, 70, 60, 90, 80 };
+            //var arrAfterMS = MergeSort.Sort(arr4);
+            //Console.WriteLine(string.Join(", ", arrAfterMS));
+            #endregion
+
+            #region Quick Sort
+            //var arr5 = new int[] { 50, 70,80, 90,100,40, 30,7, 60,8, 9 };
+            //int n = arr5.Length;
+            //var arrAfterQS = QuickSortTT.Sort(arr5, 0, n - 1);
+            //Console.WriteLine(string.Join(", ", arrAfterQS));
+
+            #endregion
+
+            #endregion
+
 
 
         }
