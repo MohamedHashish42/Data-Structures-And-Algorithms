@@ -63,8 +63,8 @@ For each part, you will find
    3.3- BFS + DFS
    
    3.4- Sorting
-   
-   ![image](https://user-images.githubusercontent.com/81900786/141648670-93279b22-e77d-488c-9de3-1830a1cdc8cb.png)
+  
+   ![image](https://user-images.githubusercontent.com/81900786/141678992-7040ebb0-d029-478f-b839-c432501e8a12.png)
 
    
 
