@@ -36,7 +36,7 @@ For each part, you will find
    
    1.5- Gragh
 
-![image](https://user-images.githubusercontent.com/81900786/136651043-83675c3a-a308-4ed5-8bff-b0c774acd878.png)
+   ![image](https://user-images.githubusercontent.com/81900786/136651043-83675c3a-a308-4ed5-8bff-b0c774acd878.png)
 
      
      
@@ -62,8 +62,10 @@ For each part, you will find
    
    3.3- BFS + DFS
    
-   
-## 3- The other Algorithm will be added in the coming days
+   3.4- Sorting
+  
+   ![image](https://user-images.githubusercontent.com/81900786/141678992-7040ebb0-d029-478f-b839-c432501e8a12.png)
+
    
 
 ## References
