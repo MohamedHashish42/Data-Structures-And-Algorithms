@@ -2,6 +2,7 @@
 using Algorithms.DynamicProgramming;
 using Algorithms.Recursion;
 using Algorithms.Searching_Traversing;
+using Algorithms.Sorting;
 using System;
 using System.Collections.Generic;
 
@@ -214,9 +215,9 @@ namespace Algorithms
             #endregion
 
             #region Quick Sort
-            //var arr5 = new int[] { 50, 70,80, 90,100,40, 30,7, 60,8, 9 };
+            //var arr5 = new int[] { 50, 70, 80, 90, 100, 40, 30, 7, 60, 8, 9 };
             //int n = arr5.Length;
-            //var arrAfterQS = QuickSortTT.Sort(arr5, 0, n - 1);
+            //var arrAfterQS = QuickSort.Sort(arr5, 0, n - 1);
             //Console.WriteLine(string.Join(", ", arrAfterQS));
 
             #endregion

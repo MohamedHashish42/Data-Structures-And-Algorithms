@@ -1,6 +1,6 @@
 ﻿using System;
 
-class QuickSortTT
+class QuickSort
 {
 
     static void Swap(int[] arr, int i, int j)
