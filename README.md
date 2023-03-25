@@ -32,9 +32,7 @@ For each part, you will find
    
    1.3- Example
    
-   1.4- Tree
-   
-   1.5- Gragh
+
 
    ![image](https://user-images.githubusercontent.com/81900786/136651043-83675c3a-a308-4ed5-8bff-b0c774acd878.png)
 
@@ -49,6 +47,10 @@ For each part, you will find
    2.3- Queue
    
    2.4- Hash table
+   
+   2.5- Tree
+   
+   2.6- Gragh
    
    ![image](https://user-images.githubusercontent.com/81900786/136651134-097f8afe-5fcb-47e2-a393-c25ee061dfff.png) 
    
